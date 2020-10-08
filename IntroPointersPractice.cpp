@@ -4,10 +4,10 @@ using namespace std;
 class class2 {
  public:  int eek;
    };
-class class1 {class1 *ptr2 = new class1(99);
- class1 obj2(88);
+class class1 {
+ 
 
- cout << "size of obj2 = " << sizeof(obj2) << " size of ptr2 = " << sizeof(ptr2) << endl;
+ //cout << "size of obj2 = " << sizeof(obj2) << " size of ptr2 = " << sizeof(ptr2) << endl;
 
     int x;
     float y;
